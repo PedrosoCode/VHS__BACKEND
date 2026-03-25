@@ -1,0 +1,14 @@
+{
+  "name": "vhs__backend",
+  "version": "1.0.0",
+  "description": "vue helper system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedroso =)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
